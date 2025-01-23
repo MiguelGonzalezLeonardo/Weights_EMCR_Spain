@@ -1,0 +1,137 @@
+code_INE,move,type,name,source,value
+1,Out-migration,International migration,Andalucía,EVR,75.52865814
+1,Out-migration,Internal migration,Andalucía,EVR,-0.597371565
+1,In-migration,International migration,Andalucía,EVR,38.12326252
+1,In-migration,Internal migration,Andalucía,EVR,-0.325116839
+2,Out-migration,International migration,Aragón,EVR,-31.36352874
+2,Out-migration,Internal migration,Aragón,EVR,0.597400998
+2,In-migration,International migration,Aragón,EVR,24.81490472
+2,In-migration,Internal migration,Aragón,EVR,-0.512163892
+3,Out-migration,International migration,Asturias,EVR,65.02242152
+3,Out-migration,Internal migration,Asturias,EVR,0.514827018
+3,In-migration,International migration,Asturias,EVR,28.02030457
+3,In-migration,Internal migration,Asturias,EVR,-1.27744511
+4,Out-migration,International migration,Baleares,EVR,103.9584255
+4,Out-migration,Internal migration,Baleares,EVR,-1.025392987
+4,In-migration,International migration,Baleares,EVR,49.94269888
+4,In-migration,Internal migration,Baleares,EVR,-0.334518085
+5,Out-migration,International migration,Canarias,EVR,135.986711
+5,Out-migration,Internal migration,Canarias,EVR,0.004240522
+5,In-migration,International migration,Canarias,EVR,46.10023955
+5,In-migration,Internal migration,Canarias,EVR,0.131078778
+6,Out-migration,International migration,Cantabria,EVR,65.36118364
+6,Out-migration,Internal migration,Cantabria,EVR,0.770171149
+6,In-migration,International migration,Cantabria,EVR,26.29692113
+6,In-migration,Internal migration,Cantabria,EVR,-0.65674705
+7,Out-migration,International migration,Castilla y León,EVR,85.6273215
+7,Out-migration,Internal migration,Castilla y León,EVR,0.092518349
+7,In-migration,International migration,Castilla y León,EVR,40.64906177
+7,In-migration,Internal migration,Castilla y León,EVR,-0.196127265
+8,Out-migration,International migration,Castilla-La Mancha,EVR,73.81363922
+8,Out-migration,Internal migration,Castilla-La Mancha,EVR,-0.074668658
+8,In-migration,International migration,Castilla-La Mancha,EVR,42.36350037
+8,In-migration,Internal migration,Castilla-La Mancha,EVR,0.223290235
+9,Out-migration,International migration,Cataluña,EVR,53.99304776
+9,Out-migration,Internal migration,Cataluña,EVR,-0.635108058
+9,In-migration,International migration,Cataluña,EVR,31.72284769
+9,In-migration,Internal migration,Cataluña,EVR,-0.659155361
+10,Out-migration,International migration,C. Valenciana,EVR,36.01229548
+10,Out-migration,Internal migration,C. Valenciana,EVR,0.150379366
+10,In-migration,International migration,C. Valenciana,EVR,31.80972186
+10,In-migration,Internal migration,C. Valenciana,EVR,-0.242718447
+11,Out-migration,International migration,Extremadura,EVR,138.9148737
+11,Out-migration,Internal migration,Extremadura,EVR,0.041802525
+11,In-migration,International migration,Extremadura,EVR,53.93175074
+11,In-migration,Internal migration,Extremadura,EVR,-0.409179861
+12,Out-migration,International migration,Galicia,EVR,86.01267308
+12,Out-migration,Internal migration,Galicia,EVR,0.060506051
+12,In-migration,International migration,Galicia,EVR,29.55525128
+12,In-migration,Internal migration,Galicia,EVR,-0.461947646
+13,Out-migration,International migration,Madrid,EVR,43.47274891
+13,Out-migration,Internal migration,Madrid,EVR,-0.61790704
+13,In-migration,International migration,Madrid,EVR,33.60640846
+13,In-migration,Internal migration,Madrid,EVR,-0.355621948
+14,Out-migration,International migration,Murcia,EVR,81.05476357
+14,Out-migration,Internal migration,Murcia,EVR,0.673809787
+14,In-migration,International migration,Murcia,EVR,29.11454301
+14,In-migration,Internal migration,Murcia,EVR,0.356865787
+15,Out-migration,International migration,Navarra,EVR,45.55427252
+15,Out-migration,Internal migration,Navarra,EVR,0.698529412
+15,In-migration,International migration,Navarra,EVR,23.53646833
+15,In-migration,Internal migration,Navarra,EVR,0.475858867
+16,Out-migration,International migration,País Vasco,EVR,53.01303538
+16,Out-migration,Internal migration,País Vasco,EVR,-0.770423733
+16,In-migration,International migration,País Vasco,EVR,17.0341169
+16,In-migration,Internal migration,País Vasco,EVR,-0.330525642
+17,Out-migration,International migration,La Rioja,EVR,58.63509749
+17,Out-migration,Internal migration,La Rioja,EVR,0.487995315
+17,In-migration,International migration,La Rioja,EVR,39.71855256
+17,In-migration,Internal migration,La Rioja,EVR,0.748916043
+1,Out-migration,International migration,Andalucía,EM,88.80957819
+1,Out-migration,Internal migration,Andalucía,EM,36.06196198
+1,In-migration,International migration,Andalucía,EM,68.55189718
+1,In-migration,Internal migration,Andalucía,EM,29.49072006
+2,Out-migration,International migration,Aragón,EM,-16.39128106
+2,Out-migration,Internal migration,Aragón,EM,38.65874363
+2,In-migration,International migration,Aragón,EM,77.17953136
+2,In-migration,Internal migration,Aragón,EM,35.90395929
+3,Out-migration,International migration,Asturias,EM,76.87305626
+3,Out-migration,Internal migration,Asturias,EM,39.69662278
+3,In-migration,International migration,Asturias,EM,55.13635432
+3,In-migration,Internal migration,Asturias,EM,29.91857105
+4,Out-migration,International migration,Baleares,EM,133.4936709
+4,Out-migration,Internal migration,Baleares,EM,31.94274292
+4,In-migration,International migration,Baleares,EM,78.65839782
+4,In-migration,Internal migration,Baleares,EM,43.17465085
+5,Out-migration,International migration,Canarias,EM,140.1027582
+5,Out-migration,Internal migration,Canarias,EM,43.74619042
+5,In-migration,International migration,Canarias,EM,70.8915575
+5,In-migration,Internal migration,Canarias,EM,42.29742316
+6,Out-migration,International migration,Cantabria,EM,76.25231911
+6,Out-migration,Internal migration,Cantabria,EM,47.59176365
+6,In-migration,International migration,Cantabria,EM,54.27614632
+6,In-migration,Internal migration,Cantabria,EM,31.4995925
+7,Out-migration,International migration,Castilla y León,EM,79.26464727
+7,Out-migration,Internal migration,Castilla y León,EM,37.67126193
+7,In-migration,International migration,Castilla y León,EM,68.99671053
+7,In-migration,Internal migration,Castilla y León,EM,26.31102005
+8,Out-migration,International migration,Castilla-La Mancha,EM,84.03626986
+8,Out-migration,Internal migration,Castilla-La Mancha,EM,39.92942099
+8,In-migration,International migration,Castilla-La Mancha,EM,90.26389444
+8,In-migration,Internal migration,Castilla-La Mancha,EM,35.03237637
+9,Out-migration,International migration,Cataluña,EM,92.98056034
+9,Out-migration,Internal migration,Cataluña,EM,38.85944297
+9,In-migration,International migration,Cataluña,EM,74.42887225
+9,In-migration,Internal migration,Cataluña,EM,45.27826038
+10,Out-migration,International migration,C. Valenciana,EM,74.07232865
+10,Out-migration,Internal migration,C. Valenciana,EM,47.71810727
+10,In-migration,International migration,C. Valenciana,EM,59.85674834
+10,In-migration,Internal migration,C. Valenciana,EM,41.67674221
+11,Out-migration,International migration,Extremadura,EM,113.9028476
+11,Out-migration,Internal migration,Extremadura,EM,25.75932738
+11,In-migration,International migration,Extremadura,EM,86.76867687
+11,In-migration,Internal migration,Extremadura,EM,24.5522305
+12,Out-migration,International migration,Galicia,EM,106.4331293
+12,Out-migration,Internal migration,Galicia,EM,47.77416734
+12,In-migration,International migration,Galicia,EM,52.16510811
+12,In-migration,Internal migration,Galicia,EM,33.56709035
+13,Out-migration,International migration,Madrid,EM,82.82106874
+13,Out-migration,Internal migration,Madrid,EM,34.03053435
+13,In-migration,International migration,Madrid,EM,63.6330535
+13,In-migration,Internal migration,Madrid,EM,42.90761999
+14,Out-migration,International migration,Murcia,EM,89.46767751
+14,Out-migration,Internal migration,Murcia,EM,48.93373642
+14,In-migration,International migration,Murcia,EM,65.71309032
+14,In-migration,Internal migration,Murcia,EM,41.45950281
+15,Out-migration,International migration,Navarra,EM,75.5163611
+15,Out-migration,Internal migration,Navarra,EM,44.56368754
+15,In-migration,International migration,Navarra,EM,65.24390244
+15,In-migration,Internal migration,Navarra,EM,45.6916863
+16,Out-migration,International migration,País Vasco,EM,76.29591486
+16,Out-migration,Internal migration,País Vasco,EM,29.09209242
+16,In-migration,International migration,País Vasco,EM,68.66802273
+16,In-migration,Internal migration,País Vasco,EM,47.86459981
+17,Out-migration,International migration,La Rioja,EM,66.68292683
+17,Out-migration,Internal migration,La Rioja,EM,43.27859727
+17,In-migration,International migration,La Rioja,EM,71.00175747
+17,In-migration,Internal migration,La Rioja,EM,35.56085919
